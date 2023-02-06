@@ -1,0 +1,30 @@
+C:\Users\Administrator\source\repos\GuessGameConsoleApp3\bin\Debug\net6.0\GuessGameConsoleApp3.exe
+C:\Users\Administrator\source\repos\GuessGameConsoleApp3\bin\Debug\net6.0\GuessGameConsoleApp3.deps.json
+C:\Users\Administrator\source\repos\GuessGameConsoleApp3\bin\Debug\net6.0\GuessGameConsoleApp3.runtimeconfig.json
+C:\Users\Administrator\source\repos\GuessGameConsoleApp3\bin\Debug\net6.0\GuessGameConsoleApp3.dll
+C:\Users\Administrator\source\repos\GuessGameConsoleApp3\bin\Debug\net6.0\GuessGameConsoleApp3.pdb
+C:\Users\Administrator\source\repos\GuessGameConsoleApp3\obj\Debug\net6.0\GuessGameConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\GuessGameConsoleApp3\obj\Debug\net6.0\GuessGameConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\GuessGameConsoleApp3\obj\Debug\net6.0\GuessGameConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\GuessGameConsoleApp3\obj\Debug\net6.0\GuessGameConsoleApp3.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\GuessGameConsoleApp3\obj\Debug\net6.0\GuessGameConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GuessGameConsoleApp3\obj\Debug\net6.0\GuessGameConsoleApp3.dll
+C:\Users\Administrator\source\repos\GuessGameConsoleApp3\obj\Debug\net6.0\refint\GuessGameConsoleApp3.dll
+C:\Users\Administrator\source\repos\GuessGameConsoleApp3\obj\Debug\net6.0\GuessGameConsoleApp3.pdb
+C:\Users\Administrator\source\repos\GuessGameConsoleApp3\obj\Debug\net6.0\GuessGameConsoleApp3.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\GuessGameConsoleApp3\obj\Debug\net6.0\ref\GuessGameConsoleApp3.dll
+C:\Users\Administrator\source\repos\01 PRACTICE\GuessGameConsoleApp3\bin\Debug\net6.0\GuessGameConsoleApp3.exe
+C:\Users\Administrator\source\repos\01 PRACTICE\GuessGameConsoleApp3\bin\Debug\net6.0\GuessGameConsoleApp3.deps.json
+C:\Users\Administrator\source\repos\01 PRACTICE\GuessGameConsoleApp3\bin\Debug\net6.0\GuessGameConsoleApp3.runtimeconfig.json
+C:\Users\Administrator\source\repos\01 PRACTICE\GuessGameConsoleApp3\bin\Debug\net6.0\GuessGameConsoleApp3.dll
+C:\Users\Administrator\source\repos\01 PRACTICE\GuessGameConsoleApp3\bin\Debug\net6.0\GuessGameConsoleApp3.pdb
+C:\Users\Administrator\source\repos\01 PRACTICE\GuessGameConsoleApp3\obj\Debug\net6.0\GuessGameConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\01 PRACTICE\GuessGameConsoleApp3\obj\Debug\net6.0\GuessGameConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\01 PRACTICE\GuessGameConsoleApp3\obj\Debug\net6.0\GuessGameConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\01 PRACTICE\GuessGameConsoleApp3\obj\Debug\net6.0\GuessGameConsoleApp3.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\01 PRACTICE\GuessGameConsoleApp3\obj\Debug\net6.0\GuessGameConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\01 PRACTICE\GuessGameConsoleApp3\obj\Debug\net6.0\GuessGameConsoleApp3.dll
+C:\Users\Administrator\source\repos\01 PRACTICE\GuessGameConsoleApp3\obj\Debug\net6.0\refint\GuessGameConsoleApp3.dll
+C:\Users\Administrator\source\repos\01 PRACTICE\GuessGameConsoleApp3\obj\Debug\net6.0\GuessGameConsoleApp3.pdb
+C:\Users\Administrator\source\repos\01 PRACTICE\GuessGameConsoleApp3\obj\Debug\net6.0\GuessGameConsoleApp3.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\01 PRACTICE\GuessGameConsoleApp3\obj\Debug\net6.0\ref\GuessGameConsoleApp3.dll
